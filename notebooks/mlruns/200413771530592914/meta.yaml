@@ -1,0 +1,6 @@
+artifact_location: file:///home/mle-user/mle_projects/mle-mlflow/notebooks/mlruns/200413771530592914
+creation_time: 1746976729711
+experiment_id: '200413771530592914'
+last_update_time: 1746976729711
+lifecycle_stage: active
+name: churn_experiment_imartnv
